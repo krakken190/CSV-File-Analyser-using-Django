@@ -52,7 +52,9 @@ This project was developed as part of an internship assessment, demonstrating sk
   ```
   pip install -r requirements.txt
   ```
-5. **Set up SECRET_KEY**
+5. **Create a folder named 'media' in your project's root directory**
+
+6. **Set up SECRET_KEY**
 - In the `settings.py` file, locate the following line:
   ```python
   SECRET_KEY = 'enter-your-django-secret-key-here'
@@ -64,14 +66,14 @@ This project was developed as part of an internship assessment, demonstrating sk
   ```
 - Copy the generated key and paste it as the SECRET_KEY value in `settings.py`.
 
-6. **Set DEBUG value**
+7. **Set DEBUG value**
 - For development, ensure DEBUG is set to True in `settings.py`:
   ```python
   DEBUG = True
   ```
 - Note: Set DEBUG to False in a production environment.
 
-7. **Run migrations**
+8. **Run migrations**
   ```
   python manage.py migrate
   ```
@@ -79,7 +81,7 @@ This project was developed as part of an internship assessment, demonstrating sk
   ```
   python manage.py runserver
   ```
-11. Open your web browser and navigate to `http://127.0.0.1:8000/`
+10. Open your web browser and navigate to `http://127.0.0.1:8000/`
 
 ## 🔧 Usage
 
