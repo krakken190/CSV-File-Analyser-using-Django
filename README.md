@@ -93,6 +93,13 @@ This project was developed as part of an internship assessment, demonstrating sk
 
 A sample CSV file (`sample_data.csv`) is included in the repository for testing purposes. You can use this file to test the functionality of the application.
 
+## 👀 Demo Video
+
+
+https://github.com/user-attachments/assets/74179030-d8ae-4248-b9fa-fbd73bb032c1
+
+
+
 ## 👤 Author
 
 - GitHub: (https://github.com/krakken190)
