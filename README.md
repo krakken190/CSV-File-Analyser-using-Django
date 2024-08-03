@@ -93,7 +93,7 @@ This project was developed as part of an internship assessment, demonstrating sk
 
 ## 🧪 Sample Data
 
-A sample CSV file (`sample_data.csv`) is included in the repository for testing purposes. You can use this file to test the functionality of the application.
+A sample data is included in the repository(Sample Data) for testing purposes. You can use this file to test the functionality of the application.
 
 ## 👀 Demo Video
 
